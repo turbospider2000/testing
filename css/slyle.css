@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: cornsilk;
+}
+
+.block {
+    padding: 50px;
+    border: 1px solid #000;
+    margin: 50px;
+    width: 1000px;
+    height: 500px;
+}
+
+.string {
+    
+}
+
+.foto{
+    width: 100%;
+    min-width: 500px;
+}
